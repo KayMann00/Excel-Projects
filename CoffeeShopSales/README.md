@@ -37,8 +37,8 @@ This project was completed independently using Microsoft Excel. Key tasks includ
 
 ## 📄 Report
 
-- [📄 View Report (PDF)](./Coffee%20Shop%20Sales.pdf)  
-- *(Optional: Add `.xlsx` file if you'd like to share the original workbook)*
+- [📄 View Report (PDF)](./Coffee%20Shop%20Sales.pdf)
+- [📥 Download Excel File (XLSX)](./Coffee%20Shop%20Sales.xlsx)
 
 ---
 
